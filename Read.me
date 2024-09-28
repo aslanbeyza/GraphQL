@@ -1,0 +1,62 @@
+npm init -y ile package dosyamı oluşturdum.
+yarn add express express-graphql
+expres ile expres server oluşturacağız 
+express-graphql
+graphql http ye erişmek için de bunu kurdum
+tercihen npm secım daha onceden denemediğim için 
+otomatik olarak yaptıgımız değişiklikleri görmek istiyorsak nodemon kurmalıyız nodemon server diyerekte serverı çalıştırıyoruz
+graphqlHTTP express middleware olarak kullanıcam bunu o yüzden önce  importunu yaptım sonrada app oluştuurulduktan sonra kullanacagım sekılde ayarladım.
+graphql nesnelerine erişebilmek için graphql paketlerine ihtiyacım var 
+http://localhost:4000/graphql bunu deyince GraphiQL test ortamı oluşuyor.
+ graphql kodlarını bu test ortamında gerceklestiricem 
+ personel tipi oluaturdum istersem ogrenci olustururum ama graphql sadece 1 tane query ile calısıyor o yuzden root query olusturmam lazım 
+birden fazla personele erismek için GraphiQLList kullanmalıyım
+
+***************************************************************
+{
+  personel(id:"3"){
+    id,
+    email,
+    isim,
+    yas,
+  }
+}
+***************************************************************
+{
+personeller{
+  isim,
+  yas,
+  }
+}
+
+***************************************************************
+json server ile json tipinde bir server oluşturucam 
+json tipindeki bu dosyayıda anlık olarak değiştirebilicez
+"json:server": "json-server --watch data.json" package json duzenleme kısmını yaptım
+npm run json:server termınalede bunu yazıcaz
+****************************************************************
+mutation ile veritabanına ekleme,guncelleme,silme islemlerini yaparız
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

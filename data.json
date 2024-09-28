@@ -1,0 +1,71 @@
+{
+    "personeller":[
+        {
+            "id":"1",
+            "isim":"Beyza",
+            "yas":3,
+            "email":"beyza@gmail.com"
+
+        },
+        {
+            "id":"2",
+            "isim":"Ali",
+            "yas":20,
+            "email":"ali@gmail.com"
+
+        },
+        {
+            "id":"3",
+            "isim":"Veli",
+            "yas":30,
+            "email":"veli@gmail.com"
+
+        },
+        {
+            "id":"4",
+            "isim":"Ayse",
+            "yas":50,
+            "email":"ayse@gmail.com"
+
+        },
+        {
+            "id":"5",
+            "isim":"Fatma",
+            "yas":30,
+            "email":"fatma@gmail.com"
+
+        },
+        {
+            "id":"6",
+            "isim":",Huriye",
+            "yas":35,
+            "email":"huriye@gmail.com"
+
+        },
+        {
+            "id":"7",
+            "isim":"Nuriye",
+            "yas":43,
+            "email":"nuriye@gmail.com"
+        },
+        {
+            "id":"8",
+            "isim":"Mehmet",
+            "yas":34,
+            "email":"mehmet@gmail.com"
+
+        },
+        {
+            "id":"9",
+            "isim":"Ahmet",
+            "yas":65,
+            "email":"ahmet@gmail.com"
+        },
+        {
+            "id":"10",
+            "isim":"Seda",
+            "yas":23,
+            "email":"seda@gmail.com"
+        }
+    ]
+}

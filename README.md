@@ -15,8 +15,8 @@ Proje dizinine gidin ve aşağıdaki komutları çalıştırarak gerekli paketle
 
 ```bash
 npm init -y
-yarn add express express-graphql graphql
-yarn add nodemon --dev
+npm install express express-graphql graphql
+npm  install nodemon --dev
 ```
 
 ### Sunucunun Başlatılması
@@ -102,6 +102,3 @@ Projeniz çalıştığında GraphiQL ortamında yukarıdaki sorguları ve mutasy
 
 Bu projeye katkıda bulunmak isterseniz, lütfen önerilerinizi ve iyileştirmelerinizi paylaşın.
 
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.

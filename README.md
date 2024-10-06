@@ -98,7 +98,4 @@ mutation {
 
 Projeniz çalıştığında GraphiQL ortamında yukarıdaki sorguları ve mutasyonları deneyerek personel verilerinizi yönetebilirsiniz.
 
-## Katkıda Bulunma
-
-Bu projeye katkıda bulunmak isterseniz, lütfen önerilerinizi ve iyileştirmelerinizi paylaşın.
 
